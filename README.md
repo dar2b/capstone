@@ -1,5 +1,6 @@
 # capstone
 Equities models 
+Libraries 
 library(lubridate)
 library(tidyverse)
 library(quantmod)
